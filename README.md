@@ -1,6 +1,6 @@
 # cryptoSoup
 
-Soup software for everything crypto
+Soup software for everything crypto:
 + key generation
 + encryption 
 + decryption
