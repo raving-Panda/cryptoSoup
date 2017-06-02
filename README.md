@@ -5,4 +5,4 @@ Soup software for everything crypto
 . encryption 
 . decryption
 . hash generation
-. file signing
+. file signing 
